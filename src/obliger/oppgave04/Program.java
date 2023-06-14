@@ -1,7 +1,4 @@
-package oppgave04;
-
-import oppgave03.Book;
-import oppgave03.BookGenre;
+package obliger.oppgave04;
 
 import java.util.ArrayList;
 

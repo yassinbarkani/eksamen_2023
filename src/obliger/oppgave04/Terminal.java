@@ -1,4 +1,4 @@
-package oppgave04;
+package obliger.oppgave04;
 
 import java.util.ArrayList;
 

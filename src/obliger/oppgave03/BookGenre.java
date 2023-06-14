@@ -1,4 +1,4 @@
-package oppgave03;
+package obliger.oppgave03;
 
 public enum BookGenre {
     CRIME,

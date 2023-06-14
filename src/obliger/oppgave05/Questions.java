@@ -1,4 +1,4 @@
-package oppgave05;
+package obliger.oppgave05;
 
 import java.util.ArrayList;
 import java.util.Scanner;

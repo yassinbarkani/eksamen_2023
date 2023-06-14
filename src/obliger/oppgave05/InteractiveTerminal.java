@@ -1,6 +1,5 @@
-package oppgave05;
+package obliger.oppgave05;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class InteractiveTerminal {
@@ -26,7 +25,7 @@ public class InteractiveTerminal {
             System.out.println("Du har valgt " + choice + ", Tapas");
             break;
         default:
-            System.out.println("Du må velge blant det som er presentert.");
+            System.out.println("Du må  det som er presentert.");
 
     }
 }
